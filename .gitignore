@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.DS_S*
+credentials.py
+notes.md
+output/counties_simple/*
+output/states_simple/*
+output/county/
+output/state/
+data/tl_2018_us_county.zip
+data/tl_2018_us_state.zip
