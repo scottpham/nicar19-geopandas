@@ -1,5 +1,3 @@
-Plotting with GeoPandas
-
 ## Intro
 GeoPandas is an extremely useful and mostly user-friendly tool for doing basic GIS analysis and plotting in Python. I use it more frequently than QGIS or other tools because it integrates nicely with Jupyter Notebooks and uses Pandas under the hood, both of which are regular parts of my daily data journalism toolkit.
 
