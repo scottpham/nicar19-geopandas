@@ -5,7 +5,7 @@ all: county state unzip simplify_counties simplify_states
 trash: 
 	rm -rf data/state && \
 		rm -rf data/county && \
-		rm -rf data/tl_2018_us_* \
+		rm -rf data/tl_2018_us_* && \
 		rm -rf output/counties_simple/ && \
 		rm -rf output/states_simple/;
 
