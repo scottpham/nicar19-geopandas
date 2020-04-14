@@ -32,7 +32,7 @@ Go through these in order. The notebooks use a few datasets that I've cleaned an
 - `data_cleaning_restaurants.ipynb`
 - `data_cleaning_states.ipynb`
 
-## In-in-out dataset:
+## In-n-out dataset:
 
 In `data_cleaning_restaurants.ipynb` I scrape a website and geocode the addresses using the Google API. Again: you do not have to run this code. The complete scraped and cleaned file is included for you in `output/innout/`.
 
